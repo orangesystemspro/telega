@@ -1,4 +1,4 @@
-import asyncio
+#import asyncio
 import time
 import random
 from telethon.tl.types import PeerChannel, PeerChat
